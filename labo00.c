@@ -1,11 +1,11 @@
 /* HEIG-VD - INFO2 - Labo00
  *
  * Auteur:      Mathieu Ghennai
- * Fichier:     INFO2_Labo00_GHM.c
+ * Fichier:     Labo00.c
  * Compilateur: VS2019
  *
  * Description :
- * 
+ * Lit une phrase, compte le nombre ne mots, l'affiche et affiche chaque mot.
  *
  *
  * Remarque(s) :
